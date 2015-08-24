@@ -1,5 +1,5 @@
 # simplifying-flux-using-csp-frp
-This is based on http://codrspace.com/allenkim67/a-simpler-web-architecture-using-flux-csp-and-frp-concepts/ which is a proposal for porting the concepts like core.async in ClojureScript pure JavaScript. 
+This is based on http://codrspace.com/allenkim67/a-simpler-web-architecture-using-flux-csp-and-frp-concepts/ which is a proposal for porting the concepts like `core.async` in ClojureScript pure JavaScript. 
 
 #Critiques of Flux
 The author had the following to say about Flux:
